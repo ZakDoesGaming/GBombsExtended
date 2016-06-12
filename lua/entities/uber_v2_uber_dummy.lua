@@ -10,7 +10,7 @@ ENT.Author			                 =  "Zak Farmer"
 ENT.Contact			                 =  ""
 ENT.Category                         =  "GBombs Extended: Missiles"
 
-ENT.Model                            =  "models/thedoctor/v2.mdl"
+ENT.Model                            =  "models/props_c17/FurnitureFridge001a.mdl"
 ENT.RocketTrail                      =  "v2_small_trail"
 ENT.RocketBurnoutTrail               =  ""
 ENT.Effect                           =  "fatman_main"
